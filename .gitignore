@@ -1,0 +1,12 @@
+# virtual env
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# system
+.DS_Store
